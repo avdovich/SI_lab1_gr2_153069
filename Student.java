@@ -68,3 +68,16 @@ class Student {
 		return ects;
 	}
 }
+
+class Faculty{
+	List <Student> studenti = new List<Student> ();
+
+	public void addStudent(Student student){
+		studenti.add(student);
+	}
+
+	public void removeStudent(Student student){
+		studenti.remove(student);
+	}
+}
+}
