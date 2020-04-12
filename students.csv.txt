@@ -1,0 +1,5 @@
+153069, Jasmina, Avdovic, 7, 6, 6, 8, 9
+153082, Ana-Marija, Miljovska, 8, 9, 9, 7, 6, 8
+153120, Hristijan, Mitrevski, 7, 9, 8, 9
+153127, Maja, Zivkoska, 8, 7, 7, 8, 8
+153077, Toni, Gelev, 9, 7, 6, 8, 9, 8
